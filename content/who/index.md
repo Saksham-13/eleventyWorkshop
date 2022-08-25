@@ -11,7 +11,7 @@ title: Who
 
 - 🌱 I’m currently learning **React, Node, Next**
 
-- 👨‍💻 All of my projects are available at [saksham-11ty.netlify.com](saksham-11ty.netlify.com)
+- 👨‍💻 All of my projects are available at [https://github.com/Saksham-13](https://github.com/Saksham-13)
 
 - 📝 I regularly write articles on [saksham-11ty.netlify.com](saksham-11ty.netlify.com)
 
