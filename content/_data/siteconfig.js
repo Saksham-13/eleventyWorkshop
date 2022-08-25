@@ -18,7 +18,7 @@ module.exports = {
     // sharing.
     openGraphDefaultImage: "/assets/images/opengraph.jpg",
     // GitHub ID (optional, remove it not needed), used for link in the left sidebar
-    socialGitHub: "muenzpraeger",
+    socialGitHub: "Saksham-13",
     // LinkedIn ID  (optional, remove it not needed), used for link in the left sidebar
     socialLinkedIn: "muenzpraeger",
     // Twitter ID  (optional, remove it not needed), used for link in the left sidebar, and for OpenGraph sharing information
