@@ -1,7 +1,7 @@
 ---
 title: How to get started with a pre-built 11ty theme
 date: 2022-09-01
-# image: /assets/images/2021/coolimage.jpg
+
 ---
 # eleventy-chirpy-blog-template
 
@@ -18,6 +18,11 @@ If you want to deploy, there's a button for it: [![Deploy to Netlify](https://ww
 ### Before you install dependencies
 
 This repo uses [Volta](https://volta.sh/). Get it, and it'll make your node life so much easier.
+Runt his command (for linux and windows user)
+```zsh
+curl https://get.volta.sh | bash
+
+```
 
 ### Instructions
 
