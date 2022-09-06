@@ -1,7 +1,7 @@
 ---
 title: Basic 11ty Tutorial
 date: 2022-08-25
-image: /assets/images/2021/coolimage.jpg
+
 ---
 
 
