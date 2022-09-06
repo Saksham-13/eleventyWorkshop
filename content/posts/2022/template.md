@@ -1,7 +1,7 @@
 ---
 title: How to get started with a pre-built 11ty theme
 date: 2022-09-01
-
+image: /assets/images/2021/coolimage.jpg
 ---
 # eleventy-chirpy-blog-template
 

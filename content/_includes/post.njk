@@ -47,9 +47,7 @@ layout: base.njk
 			<span></span>
 		</div>
 	</div>
-	{% if image %}
-	<img src="{{ image }}" alt="{{ imageAlt }}" />
-	{% endif %}
+	
   	{{ content | safe }}
   	{% include "social.njk" %}
 	<div class="block w-full h-1 border-solid border-b-1 border-gray-700"></div>
