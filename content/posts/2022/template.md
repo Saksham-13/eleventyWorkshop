@@ -1,6 +1,6 @@
 ---
 title: Template
-date: 2022-08-25
+date: 2022-09-01
 # image: /assets/images/2021/coolimage.jpg
 ---
 # eleventy-chirpy-blog-template
@@ -61,8 +61,11 @@ Open the page, usually on <http://localhost:8080>, and dig around!
 
 ## Configuration
 
-All blog configuration is handled via [`siteconfig.js`](./content/_data/siteconfig.js). Everything is inline documented.
+All blog configuration is handled via [`siteconfig.js`](./content/_data/siteconfig.js) (content/_data/siteconfig.js). Everything is inline documented.
 
+![Config file](/assets/images/config.png)
+
+In the config file you can can change the name , the picture , links among other things, feel free to tinker and explore from here
  
 <!-- ## Features
 
