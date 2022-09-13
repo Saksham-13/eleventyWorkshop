@@ -61,6 +61,6 @@ volta install yarn
 ```
 
 ## Netlify
- Create a account on [Netlify](https://www.netlify.com/)
+ Create an account on [Netlify](https://www.netlify.com/)
 
 
